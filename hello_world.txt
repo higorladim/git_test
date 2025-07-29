@@ -1,3 +1,5 @@
 Hello world!
 
 Heyyyy
+
+Testing git commit on visual studio with the message feature:
